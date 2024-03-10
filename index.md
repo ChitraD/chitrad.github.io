@@ -31,6 +31,8 @@ Around **8 years** of experience in various roles as Officer in Bank of Baroda
 
 {% include_relative resume/experience.md %}
 
+{% include_relative resume/projects.md %}
+
 {% include_relative resume/education.md %}
 
 {% include_relative resume/achievements.md %}
