@@ -27,7 +27,7 @@ twitter_username: chitradwivedi
 github_username:  chitrad
 
 # Build settings
-theme: "just-the-docs"
+remote_theme: "just-the-docs"
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
