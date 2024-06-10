@@ -2,5 +2,4 @@
 
 * DevOps and Cloud Infrastruture
 * Core and Digital Banking domain
-* Stakeholder, client and team management
-* Project Management
+* Stakeholder, Project Management, client and team management
