@@ -3,8 +3,8 @@
 
 ## Bank of Baroda, Bangalore, KA              (July 2016 to till date)
 
-### 1. IT Officer, Regional Office                       
-Mar 2022 - Present
+### IT Officer, Regional Office                       
+March 2022 - Present
 {: .label .label-blue }
 
 CBS Operations Department - Domestic
@@ -17,7 +17,7 @@ CBS Operations Department - Domestic
 
 
 
-### 2. Digital Lending Officer, Retail Credit 
+### Digital Lending Officer, Retail Credit 
 July 2016 - Mar 2022
 {: .label .label-blue }
 
