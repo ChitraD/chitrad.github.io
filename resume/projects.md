@@ -10,7 +10,7 @@ Setup highly available multi tier applications in AWS using multiple AWS resourc
 2. RDS DB, CloudWatch Monitoring, Cloud formation, Lambda, VPC, Subnets, NAT Gateway, Route Tables, Security groups, NACL, Peering
 
 
-## 2. Devops Engineer on online platform kodekloud-engineer
+## Devops Engineer on online platform kodekloud-engineer
 (Technology Used: Linux Administration, DevOps Tools)
 {: .label .label-blue }
 
