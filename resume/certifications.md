@@ -23,4 +23,19 @@
         <dd><a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-1f6bbd55-9ee6-4a2d-b929-daf875a432d1.pdf" target="_blank">UC-1f6bbd55-9ee6-4a2d-b929-daf875a432d1</a></dd>
 </dl>
 
+## Udemy: Kodekloud: Git & Github, Devops, Json, YAML
+
+<dl>
+  <dt>Issuing Organisation</dt> 
+        <dd>Kodekloud</dd>
+</dl>
+
+
+## Udemy: Complete Python Bootcamp (Pursuing)
+
+<dl>
+  <dt>Issuing Organisation</dt> 
+        <dd>Udemy</dd>
+</dl>
+
 
