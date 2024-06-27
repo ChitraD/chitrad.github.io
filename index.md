@@ -12,9 +12,9 @@ layout: home
 
 Around **8 years** of experience in various roles as Officer in Bank of Baroda
 
-**2 years** of experience as IT Officer in regional IT department
+**2+ years** of experience as IT Officer in regional IT department
 
-**6 years** of core banking experience as assistant manager-digital lending
+**5 years** of core banking experience as assistant manager-digital lending
 
 
 ### Summary
