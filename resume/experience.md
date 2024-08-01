@@ -1,16 +1,16 @@
 
 # Experience
 
-## Bank of Baroda, Bangalore, KA              (July 2016 to till date)
+## Bank of Baroda, Bangalore, KA              (02 Jul 2016-till date)
 
 ### IT Officer, Regional Office                       
-March 2022 - Present
+06/2021 - Present
 {: .label .label-blue }
 
 CBS Operations Department - Domestic
 (Ansible, Shell Script, Linux/Unix, SMAX, Finacle, Sharepoint)
 
-1. High uptime of Core Banking Services-CBS software(Finacle), manage related services, Loan account creation, log modulation in servers for issues reported via SIEBEL CRM.
+1. High uptime of Core Banking Services-CBS software(Finacle), manage related services, Loan account creation, log modulation in servers for issues reported via SIEBEL-CRM, SMAX.
 2. Installing patches and updates on test/satellite servers, deployment of feature changes and modifications using ansible, shell scripting.
 3. Access management for employees using Unix/Linux,in-house tools, MIS Portals as per HR policies or other departments directives.
 4. Project management - task assignment, strategic analysis, follow up among teams & other verticals.
@@ -18,7 +18,7 @@ CBS Operations Department - Domestic
 
 
 ### Digital Lending Officer, Retail Credit 
-July 2016 - Mar 2022
+07/2016 - 05/2021
 {: .label .label-blue }
 
 1. Building and maintaining the digital loan portfolio of 72 branches in the region.
